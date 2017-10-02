@@ -1,0 +1,41 @@
+@import url(http://fonts.googleapis.com/css?family=Lato:100,300,400,700);
+@import url(https://raw.github.com/FortAwesome/Font-Awesome/master/docs/assets/css/font-awesome.min.css);
+
+#log {
+  margin: -290px 1170px;
+  
+  position: absolute;
+  height: 600px;
+  float: right;
+  padding: 0;
+  position: absolute;
+  font-family: "Lato";
+  font-weight: 150;
+}
+
+#log1 {
+  margin: -290px 1250px;
+ 
+  position: absolute;
+  height: 600px;
+  float: right;
+  padding: 0;
+  position: absolute;
+  font-family: "Lato";
+  font-weight: 150;
+}
+
+
+.background-switch {
+  text-align: center;
+  padding: 0.7em;
+  max-width: 500px;
+  font-size: 2em;
+  border-radius: 2px;
+  background-color: lightgrey;
+}
+.background-switch:hover {
+  background-color: #880000;
+  color: white;
+  
+}
